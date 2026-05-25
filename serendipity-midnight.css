@@ -1,0 +1,12 @@
+/* Serendipity Serendipity Midnight for Homarr custom CSS */
+:root {
+  --primary-color: #f8d2c9;
+  --primary-color-dark: #ee8679;
+  --background-color: #151726;
+  --background-color-secondary: #1c1e2d;
+  --text-color: #dee0ef;
+  --text-color-secondary: #8d8f9e;
+  --border-color: #8d8f9e33;
+  --card-background: #1c1e2d;
+  --card-border: #8d8f9e33;
+}

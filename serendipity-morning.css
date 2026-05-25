@@ -1,0 +1,12 @@
+/* Serendipity Serendipity Morning for Homarr custom CSS */
+:root {
+  --primary-color: #e58678;
+  --primary-color-dark: #c25a4d;
+  --background-color: #f6f7fb;
+  --background-color-secondary: #eaebee;
+  --text-color: #3f4363;
+  --text-color-secondary: #505575;
+  --border-color: #50557533;
+  --card-background: #eaebee;
+  --card-border: #50557533;
+}

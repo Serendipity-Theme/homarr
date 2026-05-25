@@ -1,0 +1,12 @@
+/* Serendipity Serendipity Sunset for Homarr custom CSS */
+:root {
+  --primary-color: #d6b4b4;
+  --primary-color-dark: #d1918f;
+  --background-color: #202231;
+  --background-color-secondary: #272938;
+  --text-color: #dee0ef;
+  --text-color-secondary: #6b6d7c;
+  --border-color: #6b6d7c33;
+  --card-background: #272938;
+  --card-border: #6b6d7c33;
+}
